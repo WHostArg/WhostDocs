@@ -50,5 +50,11 @@ const config: DocsThemeConfig = {
       </>
     );
   },
+  head: (
+    <>
+    <meta property='og:image' content='https://cdn.whost.sh/logos/B7rwdI11.png' />
+    <meta property="og:description" content="Docs about WHost" />
+    </>
+  )
 }
 export default config
