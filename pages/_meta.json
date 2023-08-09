@@ -2,6 +2,10 @@
   "index": "Introducción a WHost",
   "primeros-pasos": "Primeros Pasos",
   "tipo-de-servicios": "Tipo de servicios",
+  "servicio-de-pago": "Servicio de pago",
+  "servicio-gratuito": "Servicio gratuito",
+  "crear-una-cuenta": "Crear una cuenta",
+  "obtener-un-servicio": "Obtener un servicio",
   "about": {
     "title": "Sobre nosotros",
     "type": "page"
