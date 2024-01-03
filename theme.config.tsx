@@ -36,7 +36,7 @@ const config: DocsThemeConfig = {
   gitTimestamp() {
     // eslint-disable-next-line react-hooks/rules-of-hooks
     const { locale = "es" } = useRouter();
-    const timestamp = new Date('2023-08-08T00:00:00Z');
+    const timestamp = new Date();
     return (
       <>
         <span>Actualizado por última vez el </span>
