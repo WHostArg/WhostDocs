@@ -1,17 +1,15 @@
 {
-  "index": "Introducción a WHost",
-  "primeros-pasos": "Primeros Pasos",
-  "tipo-de-servicios": "Tipo de servicios",
-  "about": {
-    "title": "Sobre nosotros",
-    "type": "page"
-  },
-  "contact": {
-    "title": "Contacto ↗",
-    "type": "page",
-    "href": "mailto:soporte@whost.sh",
-    "newWindow": true
-  },
-  "tos": "Terms of Service",
-  "privacy": "Privacy Policy"
+    "index": "Introducción a WHost",
+    "primeros-pasos": "Primeros Pasos",
+    "tipo-de-servicios": "Tipo de servicios",
+    "about": {
+        "title": "Sobre nosotros",
+        "type": "page"
+    },
+    "contact": {
+        "title": "Contacto ↗",
+        "type": "page",
+        "href": "mailto:soporte@whost.sh",
+        "newWindow": true
+    }
 }
